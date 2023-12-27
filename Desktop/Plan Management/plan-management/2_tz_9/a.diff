@@ -1,0 +1,2428 @@
+diff --git a/Frontend/.idea/kotlinc.xml b/Frontend/.idea/kotlinc.xml
+deleted file mode 100644
+index 0e65cea..0000000
+--- a/Frontend/.idea/kotlinc.xml
++++ /dev/null
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="KotlinJpsPluginSettings">
+-    <option name="version" value="1.7.21" />
+-  </component>
+-</project>
+\ No newline at end of file
+diff --git a/Frontend/.idea/misc.xml b/Frontend/.idea/misc.xml
+index 3cb0e43..5b7668d 100644
+--- a/Frontend/.idea/misc.xml
++++ b/Frontend/.idea/misc.xml
+@@ -1,18 +1,10 @@
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+-<<<<<<< HEAD
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+-=======
+   <component name="JavadocGenerationManager">
+     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Documents/JavaDocFrontend" />
+     <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+   </component>
+-<<<<<<< HEAD
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+->>>>>>> main
+-=======
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+->>>>>>> main
+     <output url="file://$PROJECT_DIR$/build/classes" />
+   </component>
+   <component name="ProjectType">
+diff --git a/Frontend/app/.idea/gradle.xml b/Frontend/app/.idea/gradle.xml
+index f692649..de8896e 100644
+--- a/Frontend/app/.idea/gradle.xml
++++ b/Frontend/app/.idea/gradle.xml
+@@ -1,9 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-<<<<<<< HEAD
+-  <component name="GradleMigrationSettings" migrationVersion="1" />
+-=======
+->>>>>>> main
+   <component name="GradleSettings">
+     <option name="linkedExternalProjectsSettings">
+       <GradleProjectSettings>
+diff --git a/Frontend/app/.idea/misc.xml b/Frontend/app/.idea/misc.xml
+index ac62039..4a553bd 100644
+--- a/Frontend/app/.idea/misc.xml
++++ b/Frontend/app/.idea/misc.xml
+@@ -2,14 +2,7 @@
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
+   <component name="JavadocGenerationManager">
+-<<<<<<< HEAD
+-    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../.." />
+-    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+-  </component>
+-
+-=======
+     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../../../../.." />
+     <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="true" />
+   </component>
+->>>>>>> main
+ </project>
+\ No newline at end of file
+diff --git a/Frontend/app/.idea/workspace.xml b/Frontend/app/.idea/workspace.xml
+index 9494b55..3b187ff 100644
+--- a/Frontend/app/.idea/workspace.xml
++++ b/Frontend/app/.idea/workspace.xml
+@@ -8,14 +8,6 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="902c82c8-a9c8-4c13-8416-474cb31676fd" name="Changes" comment="">
+-<<<<<<< HEAD
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-
+-
+-
+-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+-
+-=======
+       <change afterPath="$PROJECT_DIR$/../../Backend/Calendar/src/main/java/tz9/Calendar/websocket/MessageType.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../../Backend/Calendar/src/main/java/tz9/Calendar/appUser/AppUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backend/Calendar/src/main/java/tz9/Calendar/appUser/AppUser.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/../../Backend/Calendar/src/main/java/tz9/Calendar/friends/FriendService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Backend/Calendar/src/main/java/tz9/Calendar/friends/FriendService.java" afterDir="false" />
+@@ -29,7 +21,6 @@
+       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/plannr/FriendsListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/plannr/FriendsListActivity.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/plannr/utils/ChatAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/plannr/utils/ChatAdapter.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/plannr/utils/EventAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/plannr/utils/EventAdapter.java" afterDir="false" />
+->>>>>>> main
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -60,47 +51,22 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-<<<<<<< HEAD
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/phuongnguyen/Desktop/2_tz_9/Frontend/app&quot;
+-  }
+-}</component>
+-  <component name="RunManager">
+-=======
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.cidr.known.project.marker": "true",
+-    "android.gradle.sync.needed": "true",
+     "cidr.known.project.marker": "true",
+-<<<<<<< HEAD
+-    "last_opened_file_path": "C:/Users/Zach/Documents/ComS 309/2_tz_9/Frontend"
+-=======
+     "last_opened_file_path": "C:/Users/Zach Rapoza/Documents/Iowa State/ComS_309/2_tz_9/Frontend/app"
+->>>>>>> main
+   }
+ }]]></component>
+   <component name="RunAnythingCache">
+     <option name="myCommands">
+-<<<<<<< HEAD
+-      <command value="gradle wrapper" />
+-    </option>
+-  </component>
+-  <component name="RunManager" selected="Gradle.C:/Users/Zach/Documents/ComS 309/2_tz_9/Frontend/app [wrapper]">
+-    <configuration name="C:/Users/Zach/Documents/ComS 309/2_tz_9/Frontend/app [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+-=======
+       <command value="gradle javadoc" />
+     </option>
+   </component>
+   <component name="RunManager" selected="Gradle.C:/Users/Zach Rapoza/Documents/Iowa State/ComS_309/2_tz_9/Frontend/app [javadoc]">
+     <configuration name="C:/Users/Zach Rapoza/Documents/Iowa State/ComS_309/2_tz_9/Frontend/app [javadoc]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+->>>>>>> main
+       <ExternalSystemSettings>
+         <option name="executionName" />
+         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+@@ -111,11 +77,7 @@
+         </option>
+         <option name="taskNames">
+           <list>
+-<<<<<<< HEAD
+-            <option value="wrapper" />
+-=======
+             <option value="javadoc" />
+->>>>>>> main
+           </list>
+         </option>
+         <option name="vmOptions" />
+@@ -125,10 +87,6 @@
+       <DebugAllEnabled>false</DebugAllEnabled>
+       <method v="2" />
+     </configuration>
+-<<<<<<< HEAD
+->>>>>>> 845f7936378f9b5f3e3303c65ef2a653cd9430d1
+-=======
+->>>>>>> main
+     <configuration name="/Users/phuongnguyen/Desktop/2_tz_9/Frontend/app [wrapper]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+       <ExternalSystemSettings>
+         <option name="executionName" />
+@@ -152,11 +110,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
+-<<<<<<< HEAD
+-        <item itemvalue="Gradle.C:/Users/Zach/Documents/ComS 309/2_tz_9/Frontend/app [wrapper]" />
+-=======
+         <item itemvalue="Gradle.C:/Users/Zach Rapoza/Documents/Iowa State/ComS_309/2_tz_9/Frontend/app [javadoc]" />
+->>>>>>> main
+         <item itemvalue="Gradle./Users/phuongnguyen/Desktop/2_tz_9/Frontend/app [wrapper]" />
+       </list>
+     </recent_temporary>
+@@ -172,15 +126,4 @@
+     </task>
+     <servers />
+   </component>
+-  <component name="Vcs.Log.Tabs.Properties">
+-    <option name="TAB_STATES">
+-      <map>
+-        <entry key="MAIN">
+-          <value>
+-            <State />
+-          </value>
+-        </entry>
+-      </map>
+-    </option>
+-  </component>
+ </project>
+\ No newline at end of file
+diff --git a/Frontend/app/build.gradle b/Frontend/app/build.gradle
+index beac832..d655f12 100644
+--- a/Frontend/app/build.gradle
++++ b/Frontend/app/build.gradle
+@@ -1,13 +1,7 @@
+ plugins {
+     id 'com.android.application'
+-    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+-    id 'org.jetbrains.kotlin.android'
+ }
+ 
+-//task wrapper(type: Wrapper){
+-//    gradleVersion = '7.4.2'
+-//}
+-
+ android {
+     namespace 'com.example.plannr'
+     compileSdk 33
+@@ -135,13 +129,8 @@ dependencies {
+     implementation 'com.google.android.material:material:1.8.0'
+     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+     implementation 'com.android.volley:volley:1.2.1'
+-    implementation 'androidx.leanback:leanback:1.0.0'
+-    implementation 'com.github.bumptech.glide:glide:4.11.0'
+     testImplementation 'junit:junit:4.13.2'
+     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
+     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+     implementation 'com.android.volley:volley:1.2.1'
+-    implementation 'com.google.android.gms:play-services-maps:18.1.0'
+-    implementation 'com.google.android.gms:play-services-location:21.0.1'
+-    implementation 'com.karumi:dexter:6.2.1'
+ }
+\ No newline at end of file
+diff --git a/Frontend/app/gradle/wrapper/gradle-wrapper.jar b/Frontend/app/gradle/wrapper/gradle-wrapper.jar
+deleted file mode 100644
+index 249e583..0000000
+Binary files a/Frontend/app/gradle/wrapper/gradle-wrapper.jar and /dev/null differ
+diff --git a/Frontend/app/gradle/wrapper/gradle-wrapper.properties b/Frontend/app/gradle/wrapper/gradle-wrapper.properties
+deleted file mode 100644
+index dd59514..0000000
+--- a/Frontend/app/gradle/wrapper/gradle-wrapper.properties
++++ /dev/null
+@@ -1,5 +0,0 @@
+-distributionBase=GRADLE_USER_HOME
+-distributionPath=wrapper/dists
+-distributionUrl=https\://services.gradle.org/distributions/gradle-7.4.0-bin.zip
+-zipStoreBase=GRADLE_USER_HOME
+-zipStorePath=wrapper/dists
+diff --git a/Frontend/app/gradlew b/Frontend/app/gradlew
+deleted file mode 100644
+index a69d9cb..0000000
+--- a/Frontend/app/gradlew
++++ /dev/null
+@@ -1,240 +0,0 @@
+-#!/bin/sh
+-
+-#
+-# Copyright © 2015-2021 the original authors.
+-#
+-# Licensed under the Apache License, Version 2.0 (the "License");
+-# you may not use this file except in compliance with the License.
+-# You may obtain a copy of the License at
+-#
+-#      https://www.apache.org/licenses/LICENSE-2.0
+-#
+-# Unless required by applicable law or agreed to in writing, software
+-# distributed under the License is distributed on an "AS IS" BASIS,
+-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-# See the License for the specific language governing permissions and
+-# limitations under the License.
+-#
+-
+-##############################################################################
+-#
+-#   Gradle start up script for POSIX generated by Gradle.
+-#
+-#   Important for running:
+-#
+-#   (1) You need a POSIX-compliant shell to run this script. If your /bin/sh is
+-#       noncompliant, but you have some other compliant shell such as ksh or
+-#       bash, then to run this script, type that shell name before the whole
+-#       command line, like:
+-#
+-#           ksh Gradle
+-#
+-#       Busybox and similar reduced shells will NOT work, because this script
+-#       requires all of these POSIX shell features:
+-#         * functions;
+-#         * expansions «$var», «${var}», «${var:-default}», «${var+SET}»,
+-#           «${var#prefix}», «${var%suffix}», and «$( cmd )»;
+-#         * compound commands having a testable exit status, especially «case»;
+-#         * various built-in commands including «command», «set», and «ulimit».
+-#
+-#   Important for patching:
+-#
+-#   (2) This script targets any POSIX shell, so it avoids extensions provided
+-#       by Bash, Ksh, etc; in particular arrays are avoided.
+-#
+-#       The "traditional" practice of packing multiple parameters into a
+-#       space-separated string is a well documented source of bugs and security
+-#       problems, so this is (mostly) avoided, by progressively accumulating
+-#       options in "$@", and eventually passing that to Java.
+-#
+-#       Where the inherited environment variables (DEFAULT_JVM_OPTS, JAVA_OPTS,
+-#       and GRADLE_OPTS) rely on word-splitting, this is performed explicitly;
+-#       see the in-line comments for details.
+-#
+-#       There are tweaks for specific operating systems such as AIX, CygWin,
+-#       Darwin, MinGW, and NonStop.
+-#
+-#   (3) This script is generated from the Groovy template
+-#       https://github.com/gradle/gradle/blob/master/subprojects/plugins/src/main/resources/org/gradle/api/internal/plugins/unixStartScript.txt
+-#       within the Gradle project.
+-#
+-#       You can find Gradle at https://github.com/gradle/gradle/.
+-#
+-##############################################################################
+-
+-# Attempt to set APP_HOME
+-
+-# Resolve links: $0 may be a link
+-app_path=$0
+-
+-# Need this for daisy-chained symlinks.
+-while
+-    APP_HOME=${app_path%"${app_path##*/}"}  # leaves a trailing /; empty if no leading path
+-    [ -h "$app_path" ]
+-do
+-    ls=$( ls -ld "$app_path" )
+-    link=${ls#*' -> '}
+-    case $link in             #(
+-      /*)   app_path=$link ;; #(
+-      *)    app_path=$APP_HOME$link ;;
+-    esac
+-done
+-
+-APP_HOME=$( cd "${APP_HOME:-./}" && pwd -P ) || exit
+-
+-APP_NAME="Gradle"
+-APP_BASE_NAME=${0##*/}
+-
+-# Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+-DEFAULT_JVM_OPTS='"-Xmx64m" "-Xms64m"'
+-
+-# Use the maximum available, or set MAX_FD != -1 to use that value.
+-MAX_FD=maximum
+-
+-warn () {
+-    echo "$*"
+-} >&2
+-
+-die () {
+-    echo
+-    echo "$*"
+-    echo
+-    exit 1
+-} >&2
+-
+-# OS specific support (must be 'true' or 'false').
+-cygwin=false
+-msys=false
+-darwin=false
+-nonstop=false
+-case "$( uname )" in                #(
+-  CYGWIN* )         cygwin=true  ;; #(
+-  Darwin* )         darwin=true  ;; #(
+-  MSYS* | MINGW* )  msys=true    ;; #(
+-  NONSTOP* )        nonstop=true ;;
+-esac
+-
+-CLASSPATH=$APP_HOME/gradle/wrapper/gradle-wrapper.jar
+-
+-
+-# Determine the Java command to use to start the JVM.
+-if [ -n "$JAVA_HOME" ] ; then
+-    if [ -x "$JAVA_HOME/jre/sh/java" ] ; then
+-        # IBM's JDK on AIX uses strange locations for the executables
+-        JAVACMD=$JAVA_HOME/jre/sh/java
+-    else
+-        JAVACMD=$JAVA_HOME/bin/java
+-    fi
+-    if [ ! -x "$JAVACMD" ] ; then
+-        die "ERROR: JAVA_HOME is set to an invalid directory: $JAVA_HOME
+-
+-Please set the JAVA_HOME variable in your environment to match the
+-location of your Java installation."
+-    fi
+-else
+-    JAVACMD=java
+-    which java >/dev/null 2>&1 || die "ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+-
+-Please set the JAVA_HOME variable in your environment to match the
+-location of your Java installation."
+-fi
+-
+-# Increase the maximum file descriptors if we can.
+-if ! "$cygwin" && ! "$darwin" && ! "$nonstop" ; then
+-    case $MAX_FD in #(
+-      max*)
+-        MAX_FD=$( ulimit -H -n ) ||
+-            warn "Could not query maximum file descriptor limit"
+-    esac
+-    case $MAX_FD in  #(
+-      '' | soft) :;; #(
+-      *)
+-        ulimit -n "$MAX_FD" ||
+-            warn "Could not set maximum file descriptor limit to $MAX_FD"
+-    esac
+-fi
+-
+-# Collect all arguments for the java command, stacking in reverse order:
+-#   * args from the command line
+-#   * the main class name
+-#   * -classpath
+-#   * -D...appname settings
+-#   * --module-path (only if needed)
+-#   * DEFAULT_JVM_OPTS, JAVA_OPTS, and GRADLE_OPTS environment variables.
+-
+-# For Cygwin or MSYS, switch paths to Windows format before running java
+-if "$cygwin" || "$msys" ; then
+-    APP_HOME=$( cygpath --path --mixed "$APP_HOME" )
+-    CLASSPATH=$( cygpath --path --mixed "$CLASSPATH" )
+-
+-    JAVACMD=$( cygpath --unix "$JAVACMD" )
+-
+-    # Now convert the arguments - kludge to limit ourselves to /bin/sh
+-    for arg do
+-        if
+-            case $arg in                                #(
+-              -*)   false ;;                            # don't mess with options #(
+-              /?*)  t=${arg#/} t=/${t%%/*}              # looks like a POSIX filepath
+-                    [ -e "$t" ] ;;                      #(
+-              *)    false ;;
+-            esac
+-        then
+-            arg=$( cygpath --path --ignore --mixed "$arg" )
+-        fi
+-        # Roll the args list around exactly as many times as the number of
+-        # args, so each arg winds up back in the position where it started, but
+-        # possibly modified.
+-        #
+-        # NB: a `for` loop captures its iteration list before it begins, so
+-        # changing the positional parameters here affects neither the number of
+-        # iterations, nor the values presented in `arg`.
+-        shift                   # remove old arg
+-        set -- "$@" "$arg"      # push replacement arg
+-    done
+-fi
+-
+-# Collect all arguments for the java command;
+-#   * $DEFAULT_JVM_OPTS, $JAVA_OPTS, and $GRADLE_OPTS can contain fragments of
+-#     shell script including quotes and variable substitutions, so put them in
+-#     double quotes to make sure that they get re-expanded; and
+-#   * put everything else in single quotes, so that it's not re-expanded.
+-
+-set -- \
+-        "-Dorg.gradle.appname=$APP_BASE_NAME" \
+-        -classpath "$CLASSPATH" \
+-        org.gradle.wrapper.GradleWrapperMain \
+-        "$@"
+-
+-# Stop when "xargs" is not available.
+-if ! command -v xargs >/dev/null 2>&1
+-then
+-    die "xargs is not available"
+-fi
+-
+-# Use "xargs" to parse quoted args.
+-#
+-# With -n1 it outputs one arg per line, with the quotes and backslashes removed.
+-#
+-# In Bash we could simply go:
+-#
+-#   readarray ARGS < <( xargs -n1 <<<"$var" ) &&
+-#   set -- "${ARGS[@]}" "$@"
+-#
+-# but POSIX shell has neither arrays nor command substitution, so instead we
+-# post-process each arg (as a line of input to sed) to backslash-escape any
+-# character that might be a shell metacharacter, then use eval to reverse
+-# that process (while maintaining the separation between arguments), and wrap
+-# the whole thing up as a single "set" statement.
+-#
+-# This will of course break if any of these variables contains a newline or
+-# an unmatched quote.
+-#
+-
+-eval "set -- $(
+-        printf '%s\n' "$DEFAULT_JVM_OPTS $JAVA_OPTS $GRADLE_OPTS" |
+-        xargs -n1 |
+-        sed ' s~[^-[:alnum:]+,./:=@_]~\\&~g; ' |
+-        tr '\n' ' '
+-    )" '"$@"'
+-
+-exec "$JAVACMD" "$@"
+diff --git a/Frontend/app/gradlew.bat b/Frontend/app/gradlew.bat
+deleted file mode 100644
+index f127cfd..0000000
+--- a/Frontend/app/gradlew.bat
++++ /dev/null
+@@ -1,91 +0,0 @@
+-@rem
+-@rem Copyright 2015 the original author or authors.
+-@rem
+-@rem Licensed under the Apache License, Version 2.0 (the "License");
+-@rem you may not use this file except in compliance with the License.
+-@rem You may obtain a copy of the License at
+-@rem
+-@rem      https://www.apache.org/licenses/LICENSE-2.0
+-@rem
+-@rem Unless required by applicable law or agreed to in writing, software
+-@rem distributed under the License is distributed on an "AS IS" BASIS,
+-@rem WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+-@rem See the License for the specific language governing permissions and
+-@rem limitations under the License.
+-@rem
+-
+-@if "%DEBUG%"=="" @echo off
+-@rem ##########################################################################
+-@rem
+-@rem  Gradle startup script for Windows
+-@rem
+-@rem ##########################################################################
+-
+-@rem Set local scope for the variables with windows NT shell
+-if "%OS%"=="Windows_NT" setlocal
+-
+-set DIRNAME=%~dp0
+-if "%DIRNAME%"=="" set DIRNAME=.
+-set APP_BASE_NAME=%~n0
+-set APP_HOME=%DIRNAME%
+-
+-@rem Resolve any "." and ".." in APP_HOME to make it shorter.
+-for %%i in ("%APP_HOME%") do set APP_HOME=%%~fi
+-
+-@rem Add default JVM options here. You can also use JAVA_OPTS and GRADLE_OPTS to pass JVM options to this script.
+-set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"
+-
+-@rem Find java.exe
+-if defined JAVA_HOME goto findJavaFromJavaHome
+-
+-set JAVA_EXE=java.exe
+-%JAVA_EXE% -version >NUL 2>&1
+-if %ERRORLEVEL% equ 0 goto execute
+-
+-echo.
+-echo ERROR: JAVA_HOME is not set and no 'java' command could be found in your PATH.
+-echo.
+-echo Please set the JAVA_HOME variable in your environment to match the
+-echo location of your Java installation.
+-
+-goto fail
+-
+-:findJavaFromJavaHome
+-set JAVA_HOME=%JAVA_HOME:"=%
+-set JAVA_EXE=%JAVA_HOME%/bin/java.exe
+-
+-if exist "%JAVA_EXE%" goto execute
+-
+-echo.
+-echo ERROR: JAVA_HOME is set to an invalid directory: %JAVA_HOME%
+-echo.
+-echo Please set the JAVA_HOME variable in your environment to match the
+-echo location of your Java installation.
+-
+-goto fail
+-
+-:execute
+-@rem Setup the command line
+-
+-set CLASSPATH=%APP_HOME%\gradle\wrapper\gradle-wrapper.jar
+-
+-
+-@rem Execute Gradle
+-"%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %GRADLE_OPTS% "-Dorg.gradle.appname=%APP_BASE_NAME%" -classpath "%CLASSPATH%" org.gradle.wrapper.GradleWrapperMain %*
+-
+-:end
+-@rem End local scope for the variables with windows NT shell
+-if %ERRORLEVEL% equ 0 goto mainEnd
+-
+-:fail
+-rem Set variable GRADLE_EXIT_CONSOLE if you need the _script_ return code instead of
+-rem the _cmd.exe /c_ return code!
+-set EXIT_CODE=%ERRORLEVEL%
+-if %EXIT_CODE% equ 0 set EXIT_CODE=1
+-if not ""=="%GRADLE_EXIT_CONSOLE%" exit %EXIT_CODE%
+-exit /b %EXIT_CODE%
+-
+-:mainEnd
+-if "%OS%"=="Windows_NT" endlocal
+-
+-:omega
+diff --git a/Frontend/app/src/main/AndroidManifest.xml b/Frontend/app/src/main/AndroidManifest.xml
+index 6ab7126..a99791d 100644
+--- a/Frontend/app/src/main/AndroidManifest.xml
++++ b/Frontend/app/src/main/AndroidManifest.xml
+@@ -1,19 +1,8 @@
+ <?xml version="1.0" encoding="utf-8"?>
+ <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+-    xmlns:tools="http://schemas.android.com/tools"
+-    tools:ignore="MissingLeanbackLauncher">
++    xmlns:tools="http://schemas.android.com/tools">
+ 
+     <uses-permission android:name="android.permission.INTERNET" />
+-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+-
+-
+-    <uses-feature
+-        android:name="android.hardware.touchscreen"
+-        android:required="false" />
+-    <uses-feature
+-        android:name="android.software.leanback"
+-        android:required="true" />
+ 
+     <application
+         android:allowBackup="true"
+@@ -22,17 +11,10 @@
+         android:icon="@mipmap/ic_launcher"
+         android:supportsRtl="true"
+         android:theme="@style/Theme.PlannR"
++
+         android:usesCleartextTraffic="true"
+         tools:targetApi="31">
+ 
+-
+-        <meta-data
+-            android:name="com.google.android.geo.API_KEY"
+-            android:value="AIzaSyApiHZUtslm33A5lzPuZnD8y8iYVYW_5OY" />
+-
+-        <activity android:name=".maps"
+-            android:exported="false" />
+-        
+         <activity
+             android:name=".Calendar.EventActivity"
+             android:exported="false" />
+@@ -44,10 +26,10 @@
+             android:exported="true">
+             <intent-filter>
+                 <action android:name="android.intent.action.MAIN" />
+-
+                 <category android:name="android.intent.category.LAUNCHER" />
+             </intent-filter>
+         </activity>
++
+         <activity
+             android:name=".SignupActivity"
+             android:exported="true" />
+@@ -56,31 +38,47 @@
+             android:label="PlanR - Calendar" />
+         <activity
+             android:name=".ChatActivity"
+-            android:label="PlanR - Chat" />
++            android:label="PlanR - Chat"
++            />
+         <activity
+             android:name=".ChatSelectionActivity"
+-            android:label="PlanR - Chat Selection" />
++            android:label="PlanR - Chat Selection">
++        </activity>
+         <activity
+             android:name=".EventsActivity"
+             android:label="PlanR - Events" />
++
+         <activity
+             android:name=".LoginPageActivity"
+-            android:exported="true"
+-            android:label="PlanR - Login" />
++            android:label="PlanR - Login"
++            android:exported="true">
++
++        </activity>
++
+         <activity
+             android:name=".SettingsActivity"
+             android:label="PlanR - Settings" />
++
+         <activity
+             android:name=".FriendsListActivity"
+-            android:label="PlanR - Friends" />
++            android:label="PlanR - Friends">
++        </activity>
++
+         <activity
+             android:name=".ProfileActivity"
+-            android:label="PlanR - Profile" />
++            android:label="PlanR - Profile">
++        </activity>
+         <activity
+             android:name=".EventPopupActivity"
+-            android:label="PlanR - Event" />
+-        <activity android:name=".Admin_activity" />
+-        <activity android:name=".manageEvents" />
++            android:label="PlanR - Event">
++        </activity>
++        <activity
++            android:name=".Admin_activity">
++        </activity>
++        <activity
++            android:name=".manageEvents">
++        </activity>
++
+     </application>
+ 
+ </manifest>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/java/com/example/plannr/.idea/modules.xml b/Frontend/app/src/main/java/com/example/plannr/.idea/modules.xml
+deleted file mode 100644
+index ab9905e..0000000
+--- a/Frontend/app/src/main/java/com/example/plannr/.idea/modules.xml
++++ /dev/null
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/plannr.iml" filepath="$PROJECT_DIR$/.idea/plannr.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/java/com/example/plannr/.idea/vcs.xml b/Frontend/app/src/main/java/com/example/plannr/.idea/vcs.xml
+deleted file mode 100644
+index 07117e4..0000000
+--- a/Frontend/app/src/main/java/com/example/plannr/.idea/vcs.xml
++++ /dev/null
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="VcsDirectoryMappings">
+-    <mapping directory="$PROJECT_DIR$/../../../../../../../.." vcs="Git" />
+-  </component>
+-</project>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/java/com/example/plannr/.idea/workspace.xml b/Frontend/app/src/main/java/com/example/plannr/.idea/workspace.xml
+index 7e6ec13..2d26985 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/.idea/workspace.xml
++++ b/Frontend/app/src/main/java/com/example/plannr/.idea/workspace.xml
+@@ -5,9 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="dc463da7-49ee-4bfd-b4b8-29cdf6365468" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/../../../../../../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../.idea/gradle.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Calendar/EventActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calendar/EventActivity.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/utils/UserEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/utils/UserEvent.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../../../../../../../Backend/Calendar/src/main/java/tz9/Calendar/appUser/AppUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../Backend/Calendar/src/main/java/tz9/Calendar/appUser/AppUserService.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/../../../../../../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../build.gradle" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -32,7 +31,6 @@
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "RunOnceActivity.cidr.known.project.marker": "true",
+     "cidr.known.project.marker": "true",
+-    "last_opened_file_path": "C:/Users/Zach Rapoza/Documents/Iowa State/ComS_309/2_tz_9/Frontend",
+     "settings.editor.selected.configurable": "configurable.group.build"
+   }
+ }]]></component>
+diff --git a/Frontend/app/src/main/java/com/example/plannr/Calendar/EventActivity.java b/Frontend/app/src/main/java/com/example/plannr/Calendar/EventActivity.java
+index 3587029..b9b4b80 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/Calendar/EventActivity.java
++++ b/Frontend/app/src/main/java/com/example/plannr/Calendar/EventActivity.java
+@@ -1,9 +1,7 @@
+ package com.example.plannr.Calendar;
+ 
+-import androidx.annotation.NonNull;
+ import androidx.appcompat.app.AppCompatActivity;
+ 
+-
+ import android.annotation.SuppressLint;
+ import android.app.AlertDialog;
+ import android.app.DatePickerDialog;
+@@ -15,22 +13,10 @@ import android.view.View;
+ import android.widget.Button;
+ import android.widget.DatePicker;
+ import android.widget.EditText;
+-
+-import android.widget.NumberPicker;
+-import android.widget.RadioButton;
+-import android.widget.RadioGroup;
+-import android.widget.Switch;
+-import android.widget.TextView;
+ import android.widget.TimePicker;
+ import android.widget.Toast;
+ 
+-//import com.example.plannr.Calendar.CalendarUtils;
+ //import com.example.plannr.Calendar.EventDescription;
+-//import com.example.plannr.EventPopupActivity;
+-//import com.example.plannr.EventsActivity;
+-
+-//import com.example.plannr.Calendar.EventDescription;
+-
+ import com.example.plannr.R;
+ import com.example.plannr.god;
+ import com.example.plannr.manageEvents;
+@@ -59,32 +45,10 @@ public class EventActivity extends AppCompatActivity {
+    LocalTime time;
+     int hour, minute;
+ 
+-
+-    //tags
+-    RadioGroup radioGroup;
+-    RadioButton radioButton;
+-    int tag;
+-
+-    //repeat
+-    RadioGroup frequency;
+-    RadioButton timeFrame;
+-    Switch repeat;
+-
+-    NumberPicker numberPicker;
+-    int occur = 0;
+-    int number = 0;
+-
+-    //mappping
+-    EditText location;
+-    String address;
+-
+-
+-
+     /**
+      * initializes the activity layout and connects the buttons for the date and time
+      * @param savedInstanceState A Bundle containing data saved from a previous instance of this
+      */
+-
+     @SuppressLint("MissingInflatedId")
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+@@ -93,21 +57,6 @@ public class EventActivity extends AppCompatActivity {
+         timeButton = findViewById(R.id.timePicker);
+ //        initDatePicker();
+         dateButton = findViewById(R.id.datePicker);
+-
+-        //code for tags
+-        radioGroup = findViewById(R.id.radioGroup);
+-
+-        //code for repetition
+-        frequency = findViewById(R.id.frequency);
+-        //number picker code
+-        numberPicker = findViewById(R.id.number);
+-        numberPicker.setMinValue(1);
+-        numberPicker.setMaxValue(10);
+-//        occur = numberPicker.getValue();
+-
+-        //code for mapping
+-        location = findViewById(R.id.position);
+-
+         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+             dateButton.setText(CalendarUtils.formattedDate(LocalDate.now()));
+             timeButton.setText(CalendarUtils.formattedTime(LocalTime.now()));
+@@ -116,18 +65,6 @@ public class EventActivity extends AppCompatActivity {
+         }
+         title = findViewById(R.id.titleOfEvent);
+         description = findViewById(R.id.descriptionOfEvent);
+-        repeat = findViewById(R.id.repeat);
+-        if(god.editing){
+-            location.setText(god.selectedEvent.getAddress());
+-            tag = god.selectedEvent.getTag();
+-            title.setText(god.selectedEvent.GetTitle());
+-            title.setEnabled(false);
+-            //edit what can and cant be changed when editing
+-            repeat.setEnabled(false);
+-            description.setText(god.selectedEvent.GetDescription());
+-            dateButton.setText(CalendarUtils.formattedDate(god.selectedEvent.getDateR()));
+-            timeButton.setText(CalendarUtils.formattedTime(god.selectedEvent.getTimeR()));
+-        }
+     }
+ 
+     /**
+@@ -197,96 +134,18 @@ public class EventActivity extends AppCompatActivity {
+      * @param view this is the view that the action takes place on
+      */
+     public void saveEventAction(View view){
+-        if(god.editing){
+-            god.selectedEvent.setDate(date);
+-            god.selectedEvent.setTime(time);
+-            god.selectedEvent.setAddress(location.getText().toString());
+-            god.selectedEvent.setDescription(description.getText().toString());
+-            god.selectedEvent.setTag(tag);
+-            god.editing = false;
+-            god.editEvent(EventActivity.this, god.selectedEvent);
+-            startActivity(new Intent(this, manageEvents.class));
+-        }else {
+-            if(occur == 0){
+-                number = 0;
+-            }else{
+-                number = numberPicker.getValue();
+-            }
+-            if (title.getText().toString().length() == 0 || description.getText().toString().length() == 0) {
+-                Toast.makeText(getApplicationContext(), "Ensure all fields are filled", Toast.LENGTH_SHORT).show();
+-            } else {
+-                address = location.getText().toString();
+-                //System.out.println(number);
+-                UserEvent event = new UserEvent(title.getText().toString(), description.getText().toString(), date, time, god.userId, tag, occur, number, address);
+-                //old code without backend implemented
+-                god.allEvents.add(event);
+-                god.createdByMe.add(event);
+-                god.addEvent(EventActivity.this, event);
+-
+-                //repetition on front end
+-                LocalDate temp = date;
+-                for(int i = 1; i < number; i++){
+-                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+-                        if(occur == 1){
+-                            temp = temp.plusDays(1);
+-                        }else if (occur == 2){
+-                            temp = temp.plusWeeks(1);
+-                        }else{
+-                            temp = temp.plusMonths(1);
+-                        }
+-                    }
+-
+-                    event = new UserEvent(title.getText().toString(), description.getText().toString(), temp, time, god.userId, tag, occur, number, address);
+-                    //old code without backend implemented
+-                    god.allEvents.add(event);
+-                    god.createdByMe.add(event);
+-                }
+-
+-                //call method to add event to backend
+-                startActivity(new Intent(this, manageEvents.class));
+-            }
+-        }
+-    }
+-
+-    //code for tags
+-    public void checkButton(View view){
+-        int radioId = radioGroup.getCheckedRadioButtonId();
+-        radioButton = findViewById(radioId);
+-        if(radioButton.getText().equals("Outdoor")){
+-            tag = 1;
+-        }else if(radioButton.getText().equals("Business")){
+-            tag = 2;
+-        } else{
+-            tag = 0;
+-        }
+-    }
++        if(title.getText().toString().length() == 0 || description.getText().toString().length() == 0){
++            Toast.makeText(getApplicationContext(), "Ensure all fields are filled", Toast.LENGTH_SHORT).show();
++        } else {
++            UserEvent event = new UserEvent(title.getText().toString(), description.getText().toString(), date, time, god.userId);
++            //old code without backend implemented
++            god.allEvents.add(event);
++            god.createdByMe.add(event);
+ 
+-    public void checkButton1(View view){
+-        int radioId = frequency.getCheckedRadioButtonId();
+-        timeFrame = findViewById(radioId);
+-        if(timeFrame.getText().equals("Weekly")){
+-            occur = 2;
+-        }else if(timeFrame.getText().equals("Monthly")){
+-            occur = 3;
+-        }else if(timeFrame.getText().equals("Daily")){
+-            occur = 1;
+-        }else{
+-            occur = 0;
+-        }
+-    }
++            god.addEvent(EventActivity.this, event);
+ 
+-    public void repeatAction(View view){
+-        repeat = findViewById(R.id.repeat);
+-        if(repeat.isChecked()){
+-            occur = 1;
+-//            number = numberPicker.getValue();
+-            frequency.setVisibility(View.VISIBLE);
+-            numberPicker.setVisibility(View.VISIBLE);
+-        } else{
+-            frequency.setVisibility(View.INVISIBLE);
+-            numberPicker.setVisibility(View.INVISIBLE);
+-            number = 0;
+-            occur = 0;
++            //call method to add event to backend
++            startActivity(new Intent(this, manageEvents.class));
+         }
+     }
+ }
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/java/com/example/plannr/EventPopupActivity.java b/Frontend/app/src/main/java/com/example/plannr/EventPopupActivity.java
+index 168707a..660f7f1 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/EventPopupActivity.java
++++ b/Frontend/app/src/main/java/com/example/plannr/EventPopupActivity.java
+@@ -10,10 +10,6 @@ import android.widget.ToggleButton;
+ 
+ import androidx.appcompat.app.AppCompatActivity;
+ 
+-
+-import com.example.plannr.Calendar.CalendarUtils;
+-import com.example.plannr.Calendar.EventActivity;
+-
+ import com.example.plannr.Calendar.WeekViewActivity;
+ import com.example.plannr.utils.UserEvent;
+ 
+@@ -29,25 +25,14 @@ public class EventPopupActivity extends AppCompatActivity {
+     TextView Description;
+     TextView Date;
+     TextView Time;
+-
+-    TextView tag;
+-
+-    TextView repeat;
+     Button backButton;
+ 
+-    //mapping
+-    Button directions;
+-
+-    TextView where;
+-
+-
+     /**
+      * this method is ran on activity start up. It connects the xml file with the java code, and
+      * assigns buttons and views with their xml counterparts. It also runs logic to determine what page
+      * to return back to when the popup is closed.
+      * @param savedInstanceState
+      */
+-
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
+@@ -57,10 +42,6 @@ public class EventPopupActivity extends AppCompatActivity {
+         Description = findViewById(R.id.eventPopupDescription);
+         Date = findViewById(R.id.eventPopupDate);
+         Time = findViewById(R.id.eventPopupTime);
+-        tag = findViewById(R.id.eventTag);
+-        repeat = findViewById(R.id.repeats);
+-        directions = findViewById(R.id.directions);
+-        where = findViewById(R.id.address);
+ 
+         if(getIntent().getStringExtra("TITLE").length() > 12)
+         {
+@@ -76,11 +57,9 @@ public class EventPopupActivity extends AppCompatActivity {
+         Time.setText(god.selectedEvent.GetTime());
+ 
+         Button deleteButton = (Button) findViewById(R.id.deleteEvent);
+-        Button editButton = (Button) findViewById(R.id.editEvent);
+         ToggleButton btn = (ToggleButton) findViewById(R.id.joinEvent);
+         if(RSVPed(god.selectedEvent)){
+             btn.setChecked(true);
+-            directions.setVisibility(View.VISIBLE);
+         }
+         if(god.selectedEvent.getUserID() == god.userId || god.admin == true){
+             btn.setVisibility(View.INVISIBLE);
+@@ -88,35 +67,10 @@ public class EventPopupActivity extends AppCompatActivity {
+         if(god.source == 3)
+         {
+             deleteButton.setVisibility(View.VISIBLE);
+-            editButton.setVisibility(View.VISIBLE);
+         }else{
+             deleteButton.setVisibility(View.INVISIBLE);
+-            editButton.setVisibility(View.INVISIBLE);
+-        }
+-
+-        //code for implementing tags
+-        if(god.selectedEvent.getTag() == 0){
+-            tag.setText("Type: Social");
+-        }else if(god.selectedEvent.getTag() == 1){
+-            tag.setText("Type: Outdoor");
+-        }else{
+-            tag.setText("Type: Business");
+         }
+ 
+-        if(god.selectedEvent.getFrequency() == 1){
+-            repeat.setVisibility(View.VISIBLE);
+-            repeat.setText("Repeats: Daily");
+-        }else if(god.selectedEvent.getFrequency() == 2){
+-            repeat.setVisibility(View.VISIBLE);
+-            repeat.setText("Repeats: Weekly");
+-        }else if(god.selectedEvent.getFrequency() == 3){
+-            repeat.setVisibility(View.VISIBLE);
+-            repeat.setText("Repeats: Monthly");
+-        }else{
+-            repeat.setVisibility(View.INVISIBLE);
+-        }
+-
+-        where.setText("Loc:" + god.selectedEvent.getAddress());
+         backButton = (Button)findViewById(R.id.eventPopupButton);
+ 
+         /**
+@@ -148,23 +102,16 @@ public class EventPopupActivity extends AppCompatActivity {
+      */
+     public void deleteEventAction(View view){
+         deleteEvent(god.selectedEvent);
+-        startActivity(new Intent(view.getContext(), manageEvents.class));
+-    }
+ 
++        startActivity(new Intent(view.getContext(), manageEvents.class));
+ 
+-    public void editEventAction(View view){
+-        //deleteEvent(god.selectedEvent);
+-        god.editing = true;
+-        startActivity(new Intent(view.getContext(), EventActivity.class));
+     }
+ 
+-
+     /**
+      * this method is used when a user wants to join or leave an event. It adds/removes the user
+      * based on whether they are already part of the event or not
+      * @param view view that the button is on
+      */
+-
+     public void RSVPStatusAction(View view) {
+         if(RSVPed(god.selectedEvent)){
+             leaveEvent(god.selectedEvent);
+@@ -255,8 +202,4 @@ public class EventPopupActivity extends AppCompatActivity {
+         //test code without backed
+         god.events.add(event);
+     }
+-
+-    public void getDirections(View view){
+-        startActivity(new Intent(view.getContext(), maps.class));
+-    }
+ }
+diff --git a/Frontend/app/src/main/java/com/example/plannr/EventsActivity.java b/Frontend/app/src/main/java/com/example/plannr/EventsActivity.java
+index a590336..64d211a 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/EventsActivity.java
++++ b/Frontend/app/src/main/java/com/example/plannr/EventsActivity.java
+@@ -5,11 +5,6 @@ import android.os.Bundle;
+ import android.view.View;
+ import android.widget.Button;
+ 
+-import android.widget.RadioButton;
+-import android.widget.RadioGroup;
+-import android.widget.Toast;
+-
+-
+ import androidx.appcompat.app.AppCompatActivity;
+ import androidx.recyclerview.widget.LinearLayoutManager;
+ import androidx.recyclerview.widget.RecyclerView;
+@@ -33,8 +28,6 @@ public class EventsActivity extends AppCompatActivity implements EventRecyclerIn
+     ArrayList<UserEvent> eventList;
+     ActivityEventsBinding binding;
+ 
+-    RadioGroup radioGroup;
+-    RadioButton radioButton;
+ 
+     Button btn;
+     View view;
+@@ -87,35 +80,14 @@ public class EventsActivity extends AppCompatActivity implements EventRecyclerIn
+                 btn.setText("Personal");
+                 eventList = god.events;
+             }
+-            else if(god.personal == 2){
+-                btn.setText("Top");
+-                //testing for basic layout
+-                god.poll();
+-                eventList = god.top;
+-            }
++//            else if(god.personal == 2){
++//                btn.setText("Top");
++//                eventList = god.top;
++//            }
+             else {
+                 btn.setText("Public");
+                 eventList = god.allEvents;
+             }
+-            //code for tags
+-            radioGroup = findViewById(R.id.radioGroup);
+-            if(god.tag != 3){
+-                if(god.tag == 0){
+-                    radioGroup.check(R.id.social);
+-                }else if(god.tag == 1){
+-                    radioGroup.check(R.id.outdoor);
+-                }else{
+-                    radioGroup.check(R.id.business);
+-                }
+-                ArrayList<UserEvent> temp = new ArrayList<>();
+-                for(int i = 0; i < eventList.size(); i++){
+-                    if(eventList.get(i).getTag() == god.tag){
+-                        temp.add(eventList.get(i));
+-                        System.out.println(temp.get(i).getTag());
+-                    }
+-                }
+-                eventList = temp;
+-            }
+             sortEvents(eventList);
+             adapter = new EventAdapter(this, eventList, this);
+             recyclerView.setAdapter(adapter);
+@@ -137,9 +109,7 @@ public class EventsActivity extends AppCompatActivity implements EventRecyclerIn
+      * @param view the view that the button is dealing with
+      */
+     public void swapEventsAction(View view) {
+-        if (god.personal == 1) {
+-            god.personal = 2;
+-        } else if (god.personal == 2){
++        if(god.personal == 1){
+             god.personal = 0;
+         }else{
+             god.personal = 1;
+@@ -147,29 +117,10 @@ public class EventsActivity extends AppCompatActivity implements EventRecyclerIn
+         startActivity(new Intent(this, EventsActivity.class));
+     }
+ 
+-
+-    public void checkButton(View view){
+-        int radioId = radioGroup.getCheckedRadioButtonId();
+-        radioButton = findViewById(radioId);
+-        if(radioButton.getText().equals("Outdoor")){
+-            god.tag = 1;
+-        }else if(radioButton.getText().equals("Business")){
+-            god.tag = 2;
+-        }else if(radioButton.getText().equals("Social")){
+-            god.tag = 0;
+-        } else{
+-            god.tag = 3;
+-        }
+-        startActivity(new Intent(this, EventsActivity.class));
+-    }
+-
+-
+-
+     /**
+      * this method takes teh user to the event management page
+      * @param view the view that the button is dealing with
+      */
+-
+     public void manageEventsAction(View view) {
+         startActivity(new Intent(this, manageEvents.class));
+     }
+diff --git a/Frontend/app/src/main/java/com/example/plannr/FriendsListActivity.java b/Frontend/app/src/main/java/com/example/plannr/FriendsListActivity.java
+index 576277e..966f1a2 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/FriendsListActivity.java
++++ b/Frontend/app/src/main/java/com/example/plannr/FriendsListActivity.java
+@@ -209,6 +209,7 @@ public class FriendsListActivity extends AppCompatActivity {
+                     Log.d(TAG, "Something went Wrong :( - Initial Update"); //error.getMessage()
+                 }
+             });
++
+             getRequestQueue().add(jsonArrayRequest);
+         //}
+     }
+diff --git a/Frontend/app/src/main/java/com/example/plannr/MainActivity.java b/Frontend/app/src/main/java/com/example/plannr/MainActivity.java
+index 462647b..a8bc745 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/MainActivity.java
++++ b/Frontend/app/src/main/java/com/example/plannr/MainActivity.java
+@@ -69,7 +69,8 @@ public class MainActivity extends AppCompatActivity {
+         navBar = findViewById(R.id.bottomNavigationView);
+         navBar.setSelectedItemId(R.id.Dashboard);
+         navBar.setItemIconTintList(null);
+-        //Music.startMusic();
++
++
+         //evil dont uncomment unless absoluetely necessary
+        // Music.startMusic();
+ 
+@@ -206,7 +207,6 @@ public class MainActivity extends AppCompatActivity {
+      */
+     public void logOutAction(View view) {
+         startActivity(new Intent(this, LoginPageActivity.class));
+-//        startActivity(new Intent(this, maps.class));
+     }
+ 
+     /**
+diff --git a/Frontend/app/src/main/java/com/example/plannr/god.java b/Frontend/app/src/main/java/com/example/plannr/god.java
+index f360947..8b7b189 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/god.java
++++ b/Frontend/app/src/main/java/com/example/plannr/god.java
+@@ -1,7 +1,4 @@
+ package com.example.plannr;
+-import  static java.lang.Integer.max;
+-import static java.lang.Integer.min;
+-
+ import android.content.Context;
+ import android.content.Intent;
+ import android.os.Build;
+@@ -15,7 +12,7 @@ import com.android.volley.toolbox.JsonArrayRequest;
+ import com.android.volley.toolbox.JsonObjectRequest;
+ import com.android.volley.toolbox.Volley;
+ import com.example.plannr.utils.Const;
+-//import com.example.plannr.utils.EventAdapter;
++import com.example.plannr.utils.EventAdapter;
+ import com.example.plannr.utils.Student;
+ import com.example.plannr.utils.UserEvent;
+ 
+@@ -29,7 +26,6 @@ import java.time.LocalTime;
+ import java.time.YearMonth;
+ import java.time.format.DateTimeFormatter;
+ import java.util.ArrayList;
+-import java.util.Collections;
+ 
+ /**
+  * this class is used a class to contain static variable to pass between activities and update
+@@ -47,16 +43,12 @@ public class god {
+ 
+     public static int source;
+ 
+-    public static boolean editing;
+-
+     public static boolean setUP = false;
+ 
+     public static int userId = 0;
+ 
+-    public static int tag = 3;
+-
+ 
+-    public static ArrayList<UserEvent> top = new ArrayList<>();
++    public static ArrayList<UserEvent> top;
+ 
+     //determines wether the events page displays your personal event list of the public event list
+     public static int personal = 0;
+@@ -72,9 +64,9 @@ public class god {
+     public static ArrayList<UserEvent> allEvents = new ArrayList<UserEvent>();
+ 
+     public static ArrayList<UserEvent> createdByMe = new ArrayList<UserEvent>();
+-
+     private Context god;
+ 
++
+ //    public static void setUpUserEvents()
+ //    {
+ //        if(setUP == false) {
+@@ -97,33 +89,10 @@ public class god {
+ //        }
+ //    }
+ 
+-    //method to sort and get the top 10 events
+-    public static void poll(){
+-        ArrayList<UserEvent> temp = new ArrayList<>();
+-        for(int i = 0; i < allEvents.size(); i ++){
+-            temp.add(allEvents.get(i));
+-        }
+-        for(int i = 0; i < temp.size() - 1; i++){
+-            int min_idx = i;
+-            for(int j = i + 1; j < temp.size(); j++){
+-                if(temp.get(j).getSize() > temp.get(min_idx).getSize()){
+-                    min_idx = j;
+-                }
+-            }
+-            Collections.swap(temp, 0, min_idx);
+-        }
+-        top.clear();
+-        for(int i = 0; i < min(10, temp.size()); i++){
+-            top.add(temp.get(i));
+-        }
+-    }
+-
+-
+     /**
+      * this method gets all the created events from the server in backend and stores them in an array
+      * @param god the context variable for the class
+      */
+-
+     public static void allEvents(Context god){
+         //makes a request queue
+         RequestQueue queue = Volley.newRequestQueue(god);
+@@ -134,6 +103,7 @@ public class god {
+         JsonArrayRequest request = new JsonArrayRequest(Const.allEvents , new Response.Listener<JSONArray>() {
+             @Override
+             public void onResponse(JSONArray response) {
++
+                 try {
+                     //gets the servers resposne to the login request
+                     for(int i = 0; i < response.length(); i++){
+@@ -147,20 +117,20 @@ public class god {
+                             LocalTime d = LocalTime.parse(time);
+                             if (obj.get("owner") != null) {
+                                 JSONObject owner = (JSONObject) obj.get("owner");
+-                                JSONArray attends = (JSONArray) obj.get("participatingUsers");
+-                                allEvents.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) owner.get("id"), (int) tag, (String) obj.get("recurrenceType"), (int) obj.get("recurrenceCount"), (String) obj.get("location"),(int) obj.get("id"), attends.length()));
++                                allEvents.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) owner.get("id"), (int) obj.get("id")));
+                             }
+                         }
+                     }
+                 } catch (Exception e) {
+-                    System.out.println(e.getMessage() + "help");
++                    System.out.println(e.getMessage() + " here");
+                 }
++
+                 Toast.makeText(god, "Successfully loaded events  :-)", Toast.LENGTH_SHORT).show();
+             }
+         }, new Response.ErrorListener() {
+             @Override
+             public void onErrorResponse(VolleyError error) {
+-                Toast.makeText(god, "Error Loading Events ¯\\_(ツ)_/¯", Toast.LENGTH_SHORT).show();
++                //Toast.makeText(god, "Error Loading Events ¯\\_(ツ)_/¯", Toast.LENGTH_SHORT).show();
+             }
+         });
+         //adds the request to the queue
+@@ -191,18 +161,12 @@ public class god {
+                         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                             LocalDate l = LocalDate.parse(date);
+                             LocalTime d = LocalTime.parse(time);
+-                            if (obj.get("owner") != null) {
+-                                JSONObject owner = (JSONObject) obj.get("owner");
+-                                events.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) owner.get("id"), (int) tag, (String) obj.get("recurrenceType"), (int) obj.get("recurrenceCount"), (String) obj.get("location"),(int) obj.get("id")));
+-                            }
++                            events.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) ((JSONObject)obj.get("owner")).get("id"), (int) obj.get("id")));
+                         }
+                     }
+-                    //Toast.makeText(god, "Successfully loaded events  :-)", Toast.LENGTH_SHORT).show();
+-                } catch (Exception e) {
+-                    System.out.println(e);
+-                }
++                } catch (Exception e) {}
+ 
+-//                Toast.makeText(god, "Successfully loaded events  :-)", Toast.LENGTH_SHORT).show();
++                //Toast.makeText(god, "Successfully loaded events  :-)", Toast.LENGTH_SHORT).show();
+             }
+         }, new Response.ErrorListener() {
+             @Override
+@@ -237,10 +201,7 @@ public class god {
+                         if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
+                             LocalDate l = LocalDate.parse(date);
+                             LocalTime d = LocalTime.parse(time);
+-                            if (obj.get("owner") != null) {
+-                                JSONObject owner = (JSONObject) obj.get("owner");
+-                                createdByMe.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) owner.get("id"), (int) tag, (String) obj.get("recurrenceType"), (int) obj.get("recurrenceCount"), (String) obj.get("location"),(int) obj.get("id")));
+-                            }
++                            createdByMe.add(new UserEvent((String) obj.get("title"), (String) obj.get("description"), l, d, (int) ((JSONObject)obj.get("owner")).get("id"), (int) obj.get("id")));
+                         }
+                     }
+                 } catch (Exception e) {}
+@@ -272,10 +233,6 @@ public class god {
+             newEvent.put("date", event.getDateR());
+             newEvent.put("time", event.getTimeR());
+             newEvent.put("userID", userId);
+-            newEvent.put("tag", tag);
+-            newEvent.put("recurrenceType", event.getFrequency());
+-            newEvent.put("recurrenceCount", event.getRepetitions());
+-            newEvent.put("location", event.getAddress());
+         } catch(Exception e){
+             Toast.makeText(god, "Error filling object", Toast.LENGTH_SHORT).show();
+         }
+@@ -288,7 +245,7 @@ public class god {
+             public void onResponse(JSONObject response) {
+                 String message = "";
+                 try {
+-                    //gets the servers response to the login request
++                    //gets the servers resposne to the login request
+                     message = (String) response.get("message");
+                 } catch (Exception e) {}
+ 
+@@ -443,52 +400,4 @@ public class god {
+         //adds the request to the queue
+         queue.add(request);
+     }
+-
+-    public static void editEvent(Context god, UserEvent event){
+-        JSONObject newEvent = new JSONObject();
+-        try{
+-            //Fills the jsonObject
+-            newEvent.put("title", event.GetTitle());
+-            newEvent.put("description", event.GetDescription());
+-            newEvent.put("date", event.getDateR());
+-            newEvent.put("time", event.getTimeR());
+-            newEvent.put("userID", userId);
+-            newEvent.put("tag", tag);
+-            newEvent.put("recurrenceType", event.getFrequency());
+-            newEvent.put("recurrenceCount", event.getRepetitions());
+-            newEvent.put("location", event.getAddress());
+-        } catch(Exception e){
+-            Toast.makeText(god, "Error filling object", Toast.LENGTH_SHORT).show();
+-        }
+-        //makes a request queue
+-        RequestQueue queue = Volley.newRequestQueue(god);
+-        //makes a new object request using the post method
+-        JsonObjectRequest request = new JsonObjectRequest(Request.Method.PUT, Const.editEvent + userId + "/event=" + event.GetTitle(), newEvent, new Response.Listener<JSONObject>() {
+-            //parses through the response
+-
+-            @Override
+-            public void onResponse(JSONObject response) {
+-                String message = "";
+-                try {
+-                    //gets the servers resposne to the login request
+-                    message = (String) response.get("message");
+-                } catch (Exception e) {}
+-
+-                //check to see if login is a success and outputs a corresponding message
+-                if(message.equals("Put Successful")){
+-                    Toast.makeText(god, "Event updated", Toast.LENGTH_SHORT).show();
+-                }else{
+-                    System.out.println(message);
+-                    Toast.makeText(god, "shucks", Toast.LENGTH_SHORT).show();
+-                }
+-            }
+-        }, new Response.ErrorListener() {
+-            @Override
+-            public void onErrorResponse(VolleyError error) {
+-                Toast.makeText(god, "Failed to edit event", Toast.LENGTH_SHORT).show();
+-            }
+-        });
+-        //adds the request to the queue
+-        queue.add(request);
+-    }
+ }
+diff --git a/Frontend/app/src/main/java/com/example/plannr/maps.java b/Frontend/app/src/main/java/com/example/plannr/maps.java
+deleted file mode 100644
+index 5fbbd7d..0000000
+--- a/Frontend/app/src/main/java/com/example/plannr/maps.java
++++ /dev/null
+@@ -1,129 +0,0 @@
+-package com.example.plannr;
+-
+-import android.content.Context;
+-import android.content.pm.PackageManager;
+-import android.location.Address;
+-import android.location.Geocoder;
+-import android.location.Location;
+-import android.os.Bundle;
+-import android.view.WindowManager;
+-import android.widget.Toast;
+-import android.Manifest;
+-
+-import androidx.annotation.NonNull;
+-import androidx.appcompat.app.AppCompatActivity;
+-import androidx.core.app.ActivityCompat;
+-
+-import com.google.android.gms.location.FusedLocationProviderClient;
+-import com.google.android.gms.location.LocationServices;
+-import com.google.android.gms.maps.CameraUpdateFactory;
+-import com.google.android.gms.maps.GoogleMap;
+-import com.google.android.gms.maps.OnMapReadyCallback;
+-import com.google.android.gms.maps.SupportMapFragment;
+-import com.google.android.gms.maps.model.LatLng;
+-import com.google.android.gms.maps.model.MarkerOptions;
+-import com.google.android.gms.tasks.OnSuccessListener;
+-import com.google.android.gms.tasks.Task;
+-import com.karumi.dexter.Dexter;
+-import com.karumi.dexter.PermissionToken;
+-import com.karumi.dexter.listener.PermissionDeniedResponse;
+-import com.karumi.dexter.listener.PermissionGrantedResponse;
+-import com.karumi.dexter.listener.PermissionRequest;
+-import com.karumi.dexter.listener.single.PermissionListener;
+-
+-import java.io.IOException;
+-import java.util.List;
+-
+-public class maps extends AppCompatActivity {
+-
+-    SupportMapFragment supportMapFragment;
+-    FusedLocationProviderClient fusedLocationProviderClient;
+-
+-
+-    @Override
+-    protected void onCreate(Bundle savedInstanceState) {
+-        super.onCreate(savedInstanceState);
+-        setContentView(R.layout.maps_activity);
+-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+-
+-
+-        supportMapFragment = (SupportMapFragment) getSupportFragmentManager().findFragmentById(R.id.google_map);
+-        fusedLocationProviderClient = (FusedLocationProviderClient) LocationServices.getFusedLocationProviderClient(this);
+-
+-        Dexter.withContext(getApplicationContext()).withPermission(Manifest.permission.ACCESS_FINE_LOCATION).withListener(new PermissionListener() {
+-            @Override
+-            public void onPermissionGranted(PermissionGrantedResponse permissionGrantedResponse) {
+-                getCurrentLocation();
+-            }
+-
+-            @Override
+-            public void onPermissionDenied(PermissionDeniedResponse permissionDeniedResponse) {
+-
+-            }
+-
+-            @Override
+-            public void onPermissionRationaleShouldBeShown(PermissionRequest permissionRequest, PermissionToken permissionToken) {
+-                permissionToken.continuePermissionRequest();
+-            }
+-        }).check();
+-
+-    }
+-
+-    public void getCurrentLocation() {
+-        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+-            // TODO: Consider calling
+-            //    ActivityCompat#requestPermissions
+-            // here to request the missing permissions, and then overriding
+-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+-            //                                          int[] grantResults)
+-            // to handle the case where the user grants the permission. See the documentation
+-            // for ActivityCompat#requestPermissions for more details.
+-            return;
+-        }
+-        Task<Location> task = fusedLocationProviderClient.getLastLocation();
+-        task.addOnSuccessListener(new OnSuccessListener<Location>() {
+-            @Override
+-            public void onSuccess(Location location) {
+-                supportMapFragment.getMapAsync(new OnMapReadyCallback() {
+-                    @Override
+-                    public void onMapReady(@NonNull GoogleMap googleMap) {
+-                        if(location != null){
+-
+-                            LatLng p1 = getLocationFromAddress(maps.this, god.selectedEvent.getAddress());
+-                            MarkerOptions markerOptions = new MarkerOptions().position(p1).title(god.selectedEvent.getAddress());
+-                            googleMap.addMarker(markerOptions);
+-                            googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(p1, 15));
+-
+-                        }else{
+-                            Toast.makeText(maps.this, "Location app permissions", Toast.LENGTH_SHORT);
+-                        }
+-                    }
+-                });
+-            }
+-        });
+-    }
+-
+-    public LatLng getLocationFromAddress(Context context, String strAddress) {
+-
+-        Geocoder coder = new Geocoder(context);
+-        List<Address> address;
+-        LatLng p1 = null;
+-
+-        try {
+-            // May throw an IOException
+-            address = coder.getFromLocationName(strAddress, 5);
+-            if (address == null) {
+-                return null;
+-            }
+-
+-            Address location = address.get(0);
+-            p1 = new LatLng(location.getLatitude(), location.getLongitude() );
+-
+-        } catch (IOException ex) {
+-
+-            ex.printStackTrace();
+-        }
+-        return p1;
+-    }
+-
+-}
+diff --git a/Frontend/app/src/main/java/com/example/plannr/utils/Const.java b/Frontend/app/src/main/java/com/example/plannr/utils/Const.java
+index 8832316..b32a27d 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/utils/Const.java
++++ b/Frontend/app/src/main/java/com/example/plannr/utils/Const.java
+@@ -24,7 +24,7 @@ public class Const {
+     public static final String getEvents = "http://coms-309-040.class.las.iastate.edu:8080/event/getEvents";
+ 
+     public static final String base = "http://coms-309-040.class.las.iastate.edu:8080/event/getEvents/joinedEvents/user="; //+ user id
+-
++    
+     public static final String charge1URL = "http://coms-309-040.class.las.iastate.edu:8080/user/role?email=";
+ 
+     public static final String leaveEvent = "http://coms-309-040.class.las.iastate.edu:8080/event/leaveEvent/event=";//god.selectedEvent.eventID + "/user=" + god.userId;
+@@ -40,8 +40,6 @@ public class Const {
+     public static final String allEvents = "http://coms-309-040.class.las.iastate.edu:8080/event/getEvents";
+     public static final String myEvents = "http://coms-309-040.class.las.iastate.edu:8080/event/getEvents/ownedEvents/user="+ god.userId;
+ 
+-    //change url to the correct one
+-    public static final String editEvent = "http://coms-309-040.class.las.iastate.edu:8080/event/modifyEventByTitle/user="; //{eventTitle}/user={userId}/
+ 
+ 
+     // Requests below are for friendsList
+diff --git a/Frontend/app/src/main/java/com/example/plannr/utils/UserEvent.java b/Frontend/app/src/main/java/com/example/plannr/utils/UserEvent.java
+index a8e31f8..53724fb 100644
+--- a/Frontend/app/src/main/java/com/example/plannr/utils/UserEvent.java
++++ b/Frontend/app/src/main/java/com/example/plannr/utils/UserEvent.java
+@@ -24,23 +24,6 @@ public class UserEvent {
+ 
+     private long userID;
+ 
+-    private int size = 0;
+-    private int tag = 0;
+-
+-    private int frequency = 0;
+-
+-    private String fuckBackend;
+-
+-    private int number = 0;
+-
+-    //mapping
+-    private String address;
+-
+-    public UserEvent(String title){
+-        this.title = title;
+-    }
+-
+-
+     /**
+      * constructor for the UserEvents
+      * @param title the title of the event
+@@ -49,7 +32,6 @@ public class UserEvent {
+      * @param time the time of the event
+      * @param userID the user ID of the events creator
+      */
+-
+     public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID){
+         this.date = date;
+         this.time = time;
+@@ -58,17 +40,6 @@ public class UserEvent {
+         this.userID = userID;
+     }
+ 
+-
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag){
+-        this.date = date;
+-        this.time = time;
+-        this.title = title;
+-        this.description = description;
+-        this.userID = userID;
+-        this.tag = tag;
+-    }
+-
+-
+     /**
+      * constructor for the UserEvents
+      * @param title the title of the event
+@@ -78,99 +49,15 @@ public class UserEvent {
+      * @param userID the user ID of the events creator
+      * @param eventID the event ID generated by backend and associated with the event
+      */
+-
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, String address, int eventID, int size){
+-        this.date = date;
+-        this.time = time;
+-        this.title = title;
+-        this.description = description;
+-        this.userID = userID;
+-        this.eventID = eventID;
+-        this.size = size;
+-        this.address = address;
+-    }
+-
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag, String address, int eventID, int size){
+-        this.date = date;
+-        this.time = time;
+-        this.title = title;
+-        this.description = description;
+-        this.userID = userID;
+-        this.tag = tag;
+-        this.address = address;
+-    }
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag, int occur, int number, String address){
+-        this.date = date;
+-        this.time = time;
+-        this.title = title;
+-        this.description = description;
+-        this.userID = userID;
+-        this.tag = tag;
+-        this.frequency = occur;
+-        this.number = number;
+-        this.address = address;
+-    }
+-
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag, String occur, int number, String address, int eventID, int size){
+-        this.date = date;
+-        this.time = time;
+-        this.title = title;
+-        this.description = description;
+-        this.userID = userID;
+-        this.eventID = eventID;
+-        this.size = size;
+-        if(occur.equals("NONE")){
+-            this.frequency = 0;
+-        }else if(occur.equals("DAILY")){
+-            this.frequency = 1;
+-        }else if(occur.equals("WEEKLY")){
+-            this.frequency = 2;
+-        }else{
+-            this.frequency = 3;
+-        }
+-        //this.frequency = occur;
+-        this.number = number;
+-        this.address = address;
+-        this.tag = tag;
+-    }
+-
+-    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag, String occur, int number, String address, int eventID){
++    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int eventID){
+         this.date = date;
+         this.time = time;
+         this.title = title;
+         this.description = description;
+         this.userID = userID;
+         this.eventID = eventID;
+-        this.size = size;
+-        if(occur.equals("NONE")){
+-            this.frequency = 0;
+-        }else if(occur.equals("DAILY")){
+-            this.frequency = 1;
+-        }else if(occur.equals("WEEKLY")){
+-            this.frequency = 2;
+-        }else{
+-            this.frequency = 3;
+-        }
+-        //this.frequency = occur;
+-        this.number = number;
+-        this.address = address;
+-        this.tag = tag;
+     }
+ 
+-//    public UserEvent(String title, String description, LocalDate date, LocalTime time, long userID, int tag, int occur, int number, String address, int eventID, int size){
+-//        this.date = date;
+-//        this.time = time;
+-//        this.title = title;
+-//        this.description = description;
+-//        this.userID = userID;
+-//        this.eventID = eventID;
+-//        this.size = size;
+-//        this.frequency = occur;
+-//        this.number = number;
+-//        this.address = address;
+-//        this.tag = tag;
+-//    }
+-
+     /**
+      * method that determines if an event has already occurred based on the current date
+      * @return returns a boolean true if the date is past, false otherwise
+@@ -193,7 +80,6 @@ public class UserEvent {
+      * @return returns an int value 1 is this event is before the other event, 0 is they are at the
+      * same time, and -1 if it is after
+      */
+-
+     public int isEarlier(UserEvent event){
+         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+             if(this.date.isBefore(event.date)){
+@@ -234,7 +120,6 @@ public class UserEvent {
+      * method that returns teh date of the event in LocalDate form
+      * @return returns teh LocalDate of the event
+      */
+-
+     public LocalDate getDateR() {
+         return date;
+     }
+@@ -290,20 +175,6 @@ public class UserEvent {
+         return description;
+     }
+ 
+-
+-    public void setDescription(String description){
+-        this.description = description;
+-    }
+-
+-    public void setTime(LocalTime time){
+-        this.time = time;
+-    }
+-
+-    public void setDate(LocalDate date){
+-        this.date = date;
+-    }
+-
+-
+     /**
+      * method that returns the ID of the events creator
+      * @return id of the events creator
+@@ -319,33 +190,4 @@ public class UserEvent {
+     public int getEventID(){
+         return eventID;
+     }
+-
+-    public int getTag(){
+-        return tag;
+-    }
+-
+-    public void setTag(int tag){
+-        this.tag = tag;
+-    }
+-
+-    public int getFrequency(){
+-        return frequency;
+-    }
+-
+-    public int getRepetitions(){
+-        return number;
+-    }
+-
+-    public String getAddress(){
+-        return address;
+-    }
+-
+-    public void setAddress(String address){
+-        this.address = address;
+-    }
+-
+-    public int getSize(){
+-        return size;
+-    }
+-
+ }
+diff --git a/Frontend/app/src/main/res/drawable/app_icon_your_company.png b/Frontend/app/src/main/res/drawable/app_icon_your_company.png
+deleted file mode 100644
+index 0a47b01..0000000
+Binary files a/Frontend/app/src/main/res/drawable/app_icon_your_company.png and /dev/null differ
+diff --git a/Frontend/app/src/main/res/drawable/background.jpg b/Frontend/app/src/main/res/drawable/background.jpg
+deleted file mode 100644
+index d7bf59b..0000000
+Binary files a/Frontend/app/src/main/res/drawable/background.jpg and /dev/null differ
+diff --git a/Frontend/app/src/main/res/drawable/default_background.xml b/Frontend/app/src/main/res/drawable/default_background.xml
+deleted file mode 100644
+index 82e51a2..0000000
+--- a/Frontend/app/src/main/res/drawable/default_background.xml
++++ /dev/null
+@@ -1,9 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-
+-<shape xmlns:android="http://schemas.android.com/apk/res/android"
+-    android:shape="rectangle">
+-    <gradient
+-        android:angle="-270"
+-        android:endColor="@color/background_gradient_end"
+-        android:startColor="@color/background_gradient_start" />
+-</shape>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/res/drawable/movie.png b/Frontend/app/src/main/res/drawable/movie.png
+deleted file mode 100644
+index cb5cb6d..0000000
+Binary files a/Frontend/app/src/main/res/drawable/movie.png and /dev/null differ
+diff --git a/Frontend/app/src/main/res/layout/activity_event.xml b/Frontend/app/src/main/res/layout/activity_event.xml
+index 283bb11..8625964 100644
+--- a/Frontend/app/src/main/res/layout/activity_event.xml
++++ b/Frontend/app/src/main/res/layout/activity_event.xml
+@@ -16,7 +16,7 @@
+         android:layout_marginBottom="592dp"
+         android:ems="10"
+         android:hint="Title of Event"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+@@ -26,143 +26,25 @@
+         android:id="@+id/descriptionOfEvent"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
++        android:layout_marginBottom="468dp"
+         android:ems="10"
+         android:hint="Describe the Event"
+-        android:textSize="20sp"
+-        app:layout_constraintTop_toBottomOf="@id/titleOfEvent"
+-        android:layout_marginTop="15dp"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintHorizontal_bias="0.496"
+-        app:layout_constraintStart_toStartOf="parent" />
+-
+-    <EditText
+-        android:id="@+id/position"
+-        android:layout_width="250dp"
+-        android:layout_height="wrap_content"
+-        android:layout_marginBottom="468dp"
+-        android:layout_marginTop="15dp"
+-        android:hint="Street Address"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/descriptionOfEvent"
+         app:layout_constraintHorizontal_bias="0.496"
+         app:layout_constraintStart_toStartOf="parent" />
+ 
+-
+-    <Switch
+-        android:id="@+id/repeat"
+-        android:layout_width="wrap_content"
+-        android:layout_height="wrap_content"
+-        android:text="Repeat"
+-        android:textSize="20dp"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintStart_toStartOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/position"
+-        android:layout_marginLeft="-138dp"
+-        tools:layout_editor_absoluteX="57dp"
+-        tools:layout_editor_absoluteY="263dp"
+-        android:layout_marginTop="10dp"
+-        android:onClick="repeatAction"/>
+-
+-    <NumberPicker
+-        android:id="@+id/number"
+-        android:layout_width="wrap_content"
+-        android:layout_height="50sp"
+-        android:layout_marginLeft="110dp"
+-        android:textSize="20sp"
+-        android:visibility="invisible"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintLeft_toRightOf="@id/repeat"
+-        app:layout_constraintStart_toStartOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/position" />
+-
+-    <RadioGroup
+-        android:id="@+id/frequency"
+-        android:layout_width="300dp"
+-        android:layout_height="wrap_content"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintStart_toStartOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/repeat"
+-        android:layout_marginTop="15dp"
+-        android:orientation="horizontal"
+-        android:visibility="invisible">
+-
+-        <RadioButton
+-            android:id="@+id/daily"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:checked="true"
+-            android:onClick="checkButton1"
+-            android:textSize="20sp"
+-            android:text="Daily" />
+-
+-        <RadioButton
+-            android:id="@+id/weekly"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:onClick="checkButton1"
+-            android:layout_marginLeft="10dp"
+-            android:textSize="20sp"
+-            android:text="Weekly" />
+-
+-        <RadioButton
+-            android:id="@+id/monthly"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:layout_marginLeft="10dp"
+-            android:onClick="checkButton1"
+-            android:textSize="20sp"
+-            android:text="Monthly" />
+-    </RadioGroup>
+-
+-
+-    <RadioGroup
+-            android:id="@+id/radioGroup"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            app:layout_constraintEnd_toEndOf="parent"
+-            app:layout_constraintStart_toStartOf="parent"
+-            app:layout_constraintBottom_toBottomOf="parent"
+-            android:orientation="horizontal"
+-            android:layout_marginBottom="325dp">
+-
+-            <RadioButton
+-                android:id="@+id/social"
+-                android:layout_width="wrap_content"
+-                android:layout_height="wrap_content"
+-                android:checked="true"
+-                android:onClick="checkButton"
+-                android:textSize="20sp"
+-                android:text="Social" />
+-
+-            <RadioButton
+-                android:id="@+id/outdoor"
+-                android:layout_width="wrap_content"
+-                android:layout_height="wrap_content"
+-                android:onClick="checkButton"
+-                android:textSize="20sp"
+-                android:text="Outdoor" />
+-
+-            <RadioButton
+-                android:id="@+id/business"
+-                android:layout_width="wrap_content"
+-                android:layout_height="wrap_content"
+-                android:onClick="checkButton"
+-                android:textSize="20sp"
+-                android:text="Business" />
+-        </RadioGroup>
+-
+     <Button
+         android:id="@+id/timePicker"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
+-        android:layout_marginBottom="260dp"
+-        android:height="50dp"
++        android:layout_marginBottom="276dp"
++        android:height="75dp"
+         android:background="@color/light_Gray"
+         android:onClick="selectTimeAction"
+         android:text="Select Time"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+@@ -172,12 +54,12 @@
+         android:id="@+id/datePicker"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
+-        android:layout_marginBottom="190dp"
+-        android:height="50dp"
++        android:layout_marginBottom="368dp"
++        android:height="75dp"
+         android:background="@color/light_Gray"
+         android:onClick="selectDateAction"
+         android:text="Select Date"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+@@ -187,12 +69,12 @@
+         android:id="@+id/createEvent"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
+-        android:layout_marginBottom="120dp"
+-        android:height="50dp"
++        android:layout_marginBottom="188dp"
++        android:height="75dp"
+         android:background="@color/light_Gray"
+         android:onClick="saveEventAction"
+         android:text="Save"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+@@ -202,15 +84,16 @@
+         android:id="@+id/back"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
+-        android:layout_marginBottom="50dp"
+-        android:height="50dp"
++        android:layout_marginBottom="92dp"
++        android:height="75dp"
+         android:background="@color/light_Gray"
+         android:onClick="cancelEventCreation"
+         android:text="Back"
+-        android:textSize="20sp"
++        android:textSize="30sp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.496"
+         app:layout_constraintStart_toStartOf="parent" />
+ 
++
+ </androidx.constraintlayout.widget.ConstraintLayout>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/res/layout/activity_eventpopup.xml b/Frontend/app/src/main/res/layout/activity_eventpopup.xml
+index e942753..925b9f5 100644
+--- a/Frontend/app/src/main/res/layout/activity_eventpopup.xml
++++ b/Frontend/app/src/main/res/layout/activity_eventpopup.xml
+@@ -17,26 +17,7 @@
+         android:textColor="@color/event_popup_text"
+         android:textSize="26dp"
+         android:textStyle="bold"
+-        android:layout_marginBottom="625sp"
+-        app:layout_constraintBottom_toBottomOf="parent"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintHorizontal_bias="0.498"
+-        app:layout_constraintStart_toStartOf="parent"
+-        app:layout_constraintTop_toTopOf="parent"
+-        app:layout_constraintVertical_bias="1.0"/>
+-
+-    <Button
+-        android:id="@+id/editEvent"
+-        android:onClick="editEventAction"
+-        android:layout_width="160dp"
+-        android:layout_height="70dp"
+-        android:backgroundTint="@color/event_popup_button_background"
+-        android:fontFamily="serif-monospace"
+-        android:text="Edit Event"
+-        android:textColor="@color/event_popup_text"
+-        android:textSize="26dp"
+-        android:textStyle="bold"
+-        android:layout_marginBottom="550sp"
++        android:layout_marginBottom="590dp"
+         app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.498"
+@@ -56,7 +37,7 @@
+ 
+         app:layout_constraintStart_toStartOf="parent"
+         app:layout_constraintTop_toTopOf="parent"
+-        app:layout_constraintVertical_bias="0.0"
++        app:layout_constraintVertical_bias="1.0"
+         app:srcCompat="@drawable/eventpopupbackground" />
+ 
+     <TextView
+@@ -67,14 +48,12 @@
+         android:fontFamily="serif-monospace"
+         android:text="Title"
+         android:textColor="@color/event_popup_text"
+-        android:textSize="30dp"
++        android:textSize="60dp"
+         android:textStyle="bold"
+         app:layout_constraintBottom_toBottomOf="parent"
+-        app:layout_constraintHorizontal_bias="0.503"
+         app:layout_constraintLeft_toLeftOf="parent"
+         app:layout_constraintRight_toRightOf="parent"
+-        app:layout_constraintTop_toTopOf="parent"
+-        app:layout_constraintVertical_bias="0.464" />
++        app:layout_constraintTop_toTopOf="parent" />
+ 
+     <TextView
+         android:id="@+id/eventPopupDescription"
+@@ -92,7 +71,7 @@
+         android:id="@+id/eventPopupDate"
+         android:layout_width="250dp"
+         android:layout_height="wrap_content"
+-        android:layout_marginTop="10dp"
++        android:layout_marginTop="50dp"
+         android:fontFamily="serif-monospace"
+         android:text="Date"
+         android:textColor="@color/event_popup_text"
+@@ -113,89 +92,32 @@
+         app:layout_constraintRight_toRightOf="parent"
+         app:layout_constraintTop_toBottomOf="@id/eventPopupDate" />
+ 
+-    <TextView
+-        android:id="@+id/eventTag"
+-        android:layout_width="250dp"
+-        android:layout_height="wrap_content"
+-        android:fontFamily="serif-monospace"
+-        android:text="Tag: Social"
+-        android:textColor="@color/event_popup_text"
+-        android:textSize="26dp"
+-        app:layout_constraintHorizontal_bias="0.503"
+-        app:layout_constraintLeft_toLeftOf="parent"
+-        app:layout_constraintRight_toRightOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/eventPopupTime" />
+-
+-    <TextView
+-        android:id="@+id/repeats"
+-        android:layout_width="250dp"
+-        android:layout_height="wrap_content"
+-        android:fontFamily="serif-monospace"
+-        android:text="Repeats: Daily"
+-        android:textColor="@color/event_popup_text"
+-        android:textSize="26dp"
+-        app:layout_constraintHorizontal_bias="0.503"
+-        app:layout_constraintLeft_toLeftOf="parent"
+-        app:layout_constraintRight_toRightOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/eventTag" />
+-
+-    <TextView
+-        android:id="@+id/address"
+-        android:layout_width="250dp"
+-        android:layout_height="wrap_content"
+-        android:fontFamily="serif-monospace"
+-        android:text="Loc: "
+-        android:textColor="@color/event_popup_text"
+-        android:textSize="20dp"
+-        app:layout_constraintHorizontal_bias="0.503"
+-        app:layout_constraintLeft_toLeftOf="parent"
+-        app:layout_constraintRight_toRightOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/repeats" />
+-
+-
+-    <Button
+-        android:id="@+id/directions"
+-        android:layout_width="160dp"
+-        android:layout_height="50dp"
+-        android:backgroundTint="@color/event_popup_button_background"
+-        android:fontFamily="serif-monospace"
+-        android:textStyle="bold"
+-        android:textColor="@color/event_popup_text"
+-        android:textSize="26dp"
+-        android:layout_marginBottom="84dp"
+-        android:text="Lost?"
+-        android:onClick="getDirections"
+-        app:layout_constraintBottom_toBottomOf="@+id/eventPopupImage"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintHorizontal_bias="0.498"
+-        app:layout_constraintStart_toStartOf="parent" />
+-
+     <Button
+         android:id="@+id/eventPopupButton"
+         android:layout_width="160dp"
+-        android:layout_height="50dp"
++        android:layout_height="70dp"
+         android:backgroundTint="@color/event_popup_button_background"
+         android:fontFamily="serif-monospace"
+         android:text="Back"
+         android:textColor="@color/event_popup_text"
+         android:textSize="26dp"
+         android:textStyle="bold"
+-        app:layout_constraintTop_toBottomOf="@id/directions"
++        app:layout_constraintBottom_toBottomOf="parent"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.498"
+         app:layout_constraintStart_toStartOf="parent"
+-        android:layout_marginTop="15sp"
++        app:layout_constraintTop_toTopOf="parent"
+         app:layout_constraintVertical_bias="1.0" />
+ 
+     <ToggleButton
+         android:id="@+id/joinEvent"
+         android:layout_width="160dp"
+-        android:layout_height="50dp"
++        android:layout_height="70dp"
+         android:layout_marginBottom="84dp"
+         android:textOff="Join the Party"
+         android:textOn="Miss out"
+         android:onClick="RSVPStatusAction"
+-        app:layout_constraintBottom_toBottomOf="@+id/directions"
++        app:layout_constraintBottom_toBottomOf="@+id/eventPopupImage"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.498"
+         app:layout_constraintStart_toStartOf="parent" />
+diff --git a/Frontend/app/src/main/res/layout/activity_events.xml b/Frontend/app/src/main/res/layout/activity_events.xml
+index e55cf89..971e502 100644
+--- a/Frontend/app/src/main/res/layout/activity_events.xml
++++ b/Frontend/app/src/main/res/layout/activity_events.xml
+@@ -54,59 +54,12 @@
+             android:textStyle="bold" />
+     </LinearLayout>
+ 
+-    <RadioGroup
+-        android:id="@+id/radioGroup"
+-        android:layout_width="wrap_content"
+-        android:layout_height="wrap_content"
+-        app:layout_constraintEnd_toEndOf="parent"
+-        app:layout_constraintStart_toStartOf="parent"
+-        app:layout_constraintTop_toBottomOf="@id/buttons"
+-        app:layout_constraintBottom_toTopOf="@id/frame_layout"
+-        android:orientation="horizontal">
+-
+-        <RadioButton
+-            android:id="@+id/general"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:onClick="checkButton"
+-            android:checked="true"
+-            android:textSize="20sp"
+-            android:text="All" />
+-
+-        <RadioButton
+-            android:id="@+id/social"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:layout_marginLeft="8sp"
+-            android:onClick="checkButton"
+-            android:textSize="20sp"
+-            android:text="Social" />
+-
+-        <RadioButton
+-            android:id="@+id/outdoor"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:layout_marginLeft="8sp"
+-            android:onClick="checkButton"
+-            android:textSize="20sp"
+-            android:text="Outdoor" />
+-
+-        <RadioButton
+-            android:id="@+id/business"
+-            android:layout_width="wrap_content"
+-            android:layout_height="wrap_content"
+-            android:layout_marginLeft="8sp"
+-            android:onClick="checkButton"
+-            android:textSize="20sp"
+-            android:text="Business" />
+-    </RadioGroup>
+-
+     <FrameLayout
+         android:id="@+id/frame_layout"
+         android:layout_width="0dp"
+         android:layout_height="0dp"
+         app:layout_constraintBottom_toBottomOf="@+id/bottomNavigationView"
+-        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
++        app:layout_constraintTop_toBottomOf="@+id/buttons"
+         app:layout_constraintEnd_toEndOf="parent"
+         app:layout_constraintHorizontal_bias="0.0"
+         app:layout_constraintStart_toStartOf="parent"
+diff --git a/Frontend/app/src/main/res/layout/activity_login.xml b/Frontend/app/src/main/res/layout/activity_login.xml
+index afa5aee..49f306b 100644
+--- a/Frontend/app/src/main/res/layout/activity_login.xml
++++ b/Frontend/app/src/main/res/layout/activity_login.xml
+@@ -3,8 +3,7 @@
+     xmlns:app="http://schemas.android.com/apk/res-auto"
+     xmlns:tools="http://schemas.android.com/tools"
+     android:layout_width="match_parent"
+-    android:layout_height="match_parent"
+-    android:background="@drawable/profilebackground">
++    android:layout_height="match_parent">
+ 
+ 
+     <EditText
+diff --git a/Frontend/app/src/main/res/layout/maps_activity.xml b/Frontend/app/src/main/res/layout/maps_activity.xml
+deleted file mode 100644
+index 8e58832..0000000
+--- a/Frontend/app/src/main/res/layout/maps_activity.xml
++++ /dev/null
+@@ -1,20 +0,0 @@
+-<?xml version="1.0" encoding="utf-8"?>
+-<RelativeLayout
+-    xmlns:android="http://schemas.android.com/apk/res/android"
+-    android:layout_width="match_parent"
+-    android:layout_height="match_parent"
+-    xmlns:app="http://schemas.android.com/apk/res-auto"
+-    xmlns:tools="http://schemas.android.com/tools"
+-    tools:context=".maps">
+-    
+-    
+-    <fragment
+-        android:id="@+id/google_map"
+-        android:layout_width="match_parent"
+-        android:layout_height="match_parent"
+-        android:name="com.google.android.gms.maps.SupportMapFragment">
+-    </fragment>
+-
+-
+-</RelativeLayout>
+-
+diff --git a/Frontend/app/src/main/res/values/colors.xml b/Frontend/app/src/main/res/values/colors.xml
+index 5a3ca24..4f9da21 100644
+--- a/Frontend/app/src/main/res/values/colors.xml
++++ b/Frontend/app/src/main/res/values/colors.xml
+@@ -19,11 +19,5 @@
+     <color name="received_chat">#DA9253</color>
+     <color name="chat_text">#FFFFFF</color>
+     <color name="hidden">#00FFFFFF</color>
+-    <color name="background_gradient_start">#000000</color>
+-    <color name="background_gradient_end">#DDDDDD</color>
+-    <color name="fastlane_background">#0096a6</color>
+-    <color name="search_opaque">#ffaa3f</color>
+-    <color name="selected_background">#ffaa3f</color>
+-    <color name="default_background">#3d3d3d</color>
+ 
+ </resources>
+\ No newline at end of file
+diff --git a/Frontend/app/src/main/res/values/strings.xml b/Frontend/app/src/main/res/values/strings.xml
+index ec26b67..73cd8a6 100644
+--- a/Frontend/app/src/main/res/values/strings.xml
++++ b/Frontend/app/src/main/res/values/strings.xml
+@@ -7,21 +7,4 @@
+         <item>JavaScript</item>
+         <item>VisualBasic</item>
+     </string-array>
+-    <string name="title_activity_maps">Leanback maps</string>
+-    <string name="browse_title">Videos by Your Company</string>
+-    <string name="related_movies">Related Videos</string>
+-    <string name="grid_view">Grid View</string>
+-    <string name="error_fragment">Error Fragment</string>
+-    <string name="personal_settings">Personal Settings</string>
+-    <string name="watch_trailer_1">Watch trailer</string>
+-    <string name="watch_trailer_2">FREE</string>
+-    <string name="rent_1">Rent By Day</string>
+-    <string name="rent_2">From $1.99</string>
+-    <string name="buy_1">Buy and Own</string>
+-    <string name="buy_2">AT $9.99</string>
+-    <string name="movie">Movie</string>
+-
+-    <!-- Error messages -->
+-    <string name="error_fragment_message">An error occurred</string>
+-    <string name="dismiss_error">Dismiss</string>
+ </resources>
+\ No newline at end of file
+diff --git a/Frontend/build.gradle b/Frontend/build.gradle
+index 69061b7..bb94d29 100644
+--- a/Frontend/build.gradle
++++ b/Frontend/build.gradle
+@@ -2,6 +2,4 @@
+ plugins {
+     id 'com.android.application' version '7.4.0' apply false
+     id 'com.android.library' version '7.4.0' apply false
+-    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin' version '2.0.1' apply false
+-    id 'org.jetbrains.kotlin.android' version '1.7.21' apply false
+ }
+\ No newline at end of file

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingLeanbackLauncher">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+
+
+    <uses-feature
+        android:name="android.hardware.touchscreen"
+        android:required="false" />
+    <uses-feature
+        android:name="android.software.leanback"
+        android:required="true" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PlannR"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyApiHZUtslm33A5lzPuZnD8y8iYVYW_5OY" />
+
+        <activity android:name=".maps"
+            android:exported="false" />
+        
+        <activity
+            android:name=".Calendar.EventActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Calendar.WeekViewActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignupActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CalendarActivity"
+            android:label="PlanR - Calendar" />
+        <activity
+            android:name=".ChatActivity"
+            android:label="PlanR - Chat" />
+        <activity
+            android:name=".ChatSelectionActivity"
+            android:label="PlanR - Chat Selection" />
+        <activity
+            android:name=".EventsActivity"
+            android:label="PlanR - Events" />
+        <activity
+            android:name=".LoginPageActivity"
+            android:exported="true"
+            android:label="PlanR - Login" />
+        <activity
+            android:name=".SettingsActivity"
+            android:label="PlanR - Settings" />
+        <activity
+            android:name=".FriendsListActivity"
+            android:label="PlanR - Friends" />
+        <activity
+            android:name=".ProfileActivity"
+            android:label="PlanR - Profile" />
+        <activity
+            android:name=".EventPopupActivity"
+            android:label="PlanR - Event" />
+        <activity android:name=".Admin_activity" />
+        <activity android:name=".manageEvents" />
+    </application>
+
+</manifest>

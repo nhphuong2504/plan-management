@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/deleteEvent"
+        android:onClick="deleteEventAction"
+        android:layout_width="160dp"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/event_popup_button_background"
+        android:fontFamily="serif-monospace"
+        android:text="Delete Event"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="625sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"/>
+
+    <Button
+        android:id="@+id/editEvent"
+        android:onClick="editEventAction"
+        android:layout_width="160dp"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/event_popup_button_background"
+        android:fontFamily="serif-monospace"
+        android:text="Edit Event"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="550sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"/>
+
+    <ImageView
+        android:id="@+id/eventPopupImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/eventpopupbackground" />
+
+    <TextView
+        android:id="@+id/eventPopupTitle"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="150dp"
+        android:fontFamily="serif-monospace"
+        android:text="Title"
+        android:textColor="@color/event_popup_text"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.464" />
+
+    <TextView
+        android:id="@+id/eventPopupDescription"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:text="Description"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/eventPopupTitle" />
+
+    <TextView
+        android:id="@+id/eventPopupDate"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="serif-monospace"
+        android:text="Date"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/eventPopupDescription" />
+
+    <TextView
+        android:id="@+id/eventPopupTime"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:text="Time"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/eventPopupDate" />
+
+    <TextView
+        android:id="@+id/eventTag"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:text="Tag: Social"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/eventPopupTime" />
+
+    <TextView
+        android:id="@+id/repeats"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:text="Repeats: Daily"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/eventTag" />
+
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif-monospace"
+        android:text="Loc: "
+        android:textColor="@color/event_popup_text"
+        android:textSize="20dp"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/repeats" />
+
+
+    <Button
+        android:id="@+id/directions"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/event_popup_button_background"
+        android:fontFamily="serif-monospace"
+        android:textStyle="bold"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        android:layout_marginBottom="84dp"
+        android:text="Lost?"
+        android:onClick="getDirections"
+        app:layout_constraintBottom_toBottomOf="@+id/eventPopupImage"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/eventPopupButton"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/event_popup_button_background"
+        android:fontFamily="serif-monospace"
+        android:text="Back"
+        android:textColor="@color/event_popup_text"
+        android:textSize="26dp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/directions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="15sp"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <ToggleButton
+        android:id="@+id/joinEvent"
+        android:layout_width="160dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="84dp"
+        android:textOff="Join the Party"
+        android:textOn="Miss out"
+        android:onClick="RSVPStatusAction"
+        app:layout_constraintBottom_toBottomOf="@+id/directions"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

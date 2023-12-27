@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:icon="@drawable/dashboardtab"
+        android:id="@+id/Dashboard"
+        />
+    <item android:title="Calendar"
+        android:icon="@drawable/calendartab"
+        android:id="@+id/Calendar"
+        />
+    <item android:title="Chat"
+        android:icon="@drawable/chattab"
+        android:id="@+id/Chat"
+        />
+    <item android:title="Events"
+        android:icon="@drawable/eventstab"
+        android:id="@+id/Events"
+        />
+    <item android:title="Friends"
+        android:icon="@drawable/friendstab"
+        android:id="@+id/Friends"
+        />
+    <!--<item android:title="Settings"
+        android:icon="@drawable/baseline_settings_24"
+        android:id="@+id/Settings"
+        />-->
+</menu>

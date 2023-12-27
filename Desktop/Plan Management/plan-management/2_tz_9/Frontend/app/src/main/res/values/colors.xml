@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_Gray">#333533</color>
+    <color name="light_Gray">#EEE</color>
+    <color name="blue">#3399FF</color>
+    <color name="green">#5EFA5F</color>
+    <color name="red">#FF5E60</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="event_list_item_text">#292929</color>
+    <color name="event_popup_text">#1B1918</color>
+    <color name="event_popup_button_background">#46B5FF</color>
+    <color name="sent_chat">#0D609F</color>
+    <color name="received_chat">#DA9253</color>
+    <color name="chat_text">#FFFFFF</color>
+    <color name="hidden">#00FFFFFF</color>
+    <color name="background_gradient_start">#000000</color>
+    <color name="background_gradient_end">#DDDDDD</color>
+    <color name="fastlane_background">#0096a6</color>
+    <color name="search_opaque">#ffaa3f</color>
+    <color name="selected_background">#ffaa3f</color>
+    <color name="default_background">#3d3d3d</color>
+
+</resources>

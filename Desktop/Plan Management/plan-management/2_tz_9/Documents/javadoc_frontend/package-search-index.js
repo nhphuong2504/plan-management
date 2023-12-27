@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.plannr"},{"l":"com.example.plannr.Calendar"},{"l":"com.example.plannr.databinding"},{"l":"com.example.plannr.utils"}]
